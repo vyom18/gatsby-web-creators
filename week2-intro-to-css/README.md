@@ -21,11 +21,11 @@ That's this Markdown file, where you can tell people what your cool website does
 
 ### index.html
 
-Where you'll write the content of your HTML page.
+Where you'll write the content of your HTML page.This is the first page which will get open.
 
 ### cool-style.css
 
-Where you'll make your webpage look stylish with CSS!
+Where you'll make your webpage look stylish with CSS!As CSS are of three types:- inline,internal,external.In inline it is written withing tags only.In internal it is written in same file under <style>tags and in external it is written in another file and saved with .css file.
 
 ### assets
 
